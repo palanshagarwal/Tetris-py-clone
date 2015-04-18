@@ -1,6 +1,5 @@
 import pyglet
 import random
-
 class Game(object):
     def __init__(self, board, infoDisplay, input, backgroundImage):
         self.paused = False
